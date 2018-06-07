@@ -1,5 +1,5 @@
-Zapu,20
-Ha,19
-Rocu,17
-Haya,17
-Mevadeda,0
+Dasd,550
+Fsd,400
+Dsfsd,350
+Gfd,325
+Fdsf,300
